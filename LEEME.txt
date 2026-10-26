@@ -1,0 +1,1 @@
+Subir SOLO index.html y version.json a GitHub Pages. Guardar respaldo JSON en el celular antes de actualizar. La modificación del ícono y el traslado de la barra nativa de actualización requieren instalar una APK una vez.
